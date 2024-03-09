@@ -16,5 +16,5 @@
 
 1. Article on ["The Strength of Diversity: Uncovering the Secrets of Ensemble Learning"](https://github.com/dwija12903/Mentorness-Internship/blob/main/article/Dwija_Panchal_MIP-ML-04_ML.pdf)
 2. [Credit Card Approval Prediction](https://github.com/dwija12903/Mentorness-Internship/blob/main/Credit%20Card%20Prediction/CreditCard.ipynb)
-3. [ales Forecasting for Furniture Store](https://github.com/dwija12903/Mentorness-Internship/blob/main/Sales%20Forecasting/SalesForecasting.ipynb)
+3. [Sales Forecasting for Furniture Store](https://github.com/dwija12903/Mentorness-Internship/blob/main/Sales%20Forecasting/SalesForecasting.ipynb)
 4. Quiz on ML Concepts
