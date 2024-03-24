@@ -1,4 +1,4 @@
-# Mentorness-Internship
+# Machine Learning Internship Program 
 #### Developed and applied technical skills in areas such as programming languages, data analysis, and machine learning methodologies.
 
 ### 📌 Summary
